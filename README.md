@@ -5,15 +5,6 @@ Making API calls, using Pandas to analyze and Matplotlib and gmaps
 
 PlanMyTrip App provides real-time suggestions for our client's ideal hotels (currently sampling 2000 random cities around the world). I narrowed that to hotels that were (1) within sample range of latitude and longitude and that (2) provided the right kind of weather for the client.
 
-- **Task:** Collect and analyze weather data across cities worldwide.
-- **Purpose:** PlanMyTrip will use the data to recommend ideal hotels based on clients' weather preferences. Additionally use city data to create a travel itinerary. This code can be adjusted.
-- **Method:** 
-  - Create a Pandas DataFrame with 500 or more of the world's unique cities and their weather data in real time. This process will entail collecting, analyzing, and visualizing the data. 
-  - I use input statements (sourced from the client) to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. 
-  - From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, you will create a travel route between the four cities as well as a marker layer map.
-
-
-
 ## Basic Project Plan
 
 Here's an outline of your project plan:

@@ -8,9 +8,10 @@ config.py
 
 #practice files
 API_practice.ipynb
-random_numbers.ipynb
-VacationPy.ipynb
-WeatherPy.ipynb
+practice_random_numbers.ipynb
+practice_VacationPy.ipynb
+practice_WeatherPy.ipynb
+#folder
 weather_data/
 
 #checkpoints

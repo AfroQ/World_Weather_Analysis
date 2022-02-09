@@ -3,7 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#config files
 config.py
+
+#practice files
+API_practice.ipynb
+random_numbers.ipynb
+VacationPy.ipynb
+WeatherPy.ipynb
+weather_data/
+
+#checkpoints
 .ipynb_checkpoints
 # C extensions
 *.so
